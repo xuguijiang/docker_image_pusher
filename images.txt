@@ -7,3 +7,4 @@ xhofe/alist:latest
 #mysql
 mysql
 hello-world
+redis
