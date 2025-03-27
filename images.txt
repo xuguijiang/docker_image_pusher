@@ -8,5 +8,5 @@ xhofe/alist:latest
 mysql
 hello-world
 redis
-Jenkins
+jenkins
 gitlab
