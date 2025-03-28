@@ -8,5 +8,4 @@ xhofe/alist:latest
 mysql
 hello-world
 redis
-jenkins
-gitlab
+tomcat
