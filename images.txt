@@ -9,3 +9,4 @@ mysql
 hello-world
 redis
 tomcat
+jenkins
