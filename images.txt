@@ -10,4 +10,3 @@ hello-world
 redis
 tomcat
 elasticsearch
-kibana
