@@ -9,6 +9,5 @@ mysql
 hello-world
 redis
 tomcat
-gitlab
 elasticsearch
 kibana
