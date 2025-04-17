@@ -12,3 +12,4 @@ tomcat
 elasticsearch:8.18.0
 kibana:8.18.0
 bitnami/kafka:latest
+zookeeper:latest
