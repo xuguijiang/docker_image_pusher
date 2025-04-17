@@ -10,4 +10,4 @@ hello-world
 redis
 tomcat
 elasticsearch:8.18.0
-kibana:last
+kibana:8.18.0
