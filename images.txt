@@ -9,4 +9,4 @@ mysql
 hello-world
 redis
 tomcat
-elasticsearch
+elasticsearch:8.18.0
